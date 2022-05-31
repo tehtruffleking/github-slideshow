@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is the second slide. Nice.
+"A little learning is a dangerous thing." -- Alexander Pope
 Use the left arrow to go back!
